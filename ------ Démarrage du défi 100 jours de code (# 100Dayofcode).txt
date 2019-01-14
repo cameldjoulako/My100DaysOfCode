@@ -1,0 +1,85 @@
+------ Démarrage du challenge(défi) 100 jours de code (#100DaysOfCode) -------
+Je cherche toujours à améliorer mes compétences en codage et, alors que je regarde tout le monde prendre des résolutions pour l'année, je ne pouvais m'empêcher de penser que je devrais relever ce défi. Si vous ne savez pas de quoi je parle, l’une des ressources est  https://www.100daysofcode.com/ et https://301daysofcode.com/ , ce qui vous donne vraiment un bon aperçu de ce que le défi implique.
+
+Je mettrai à jour mon compte GitHub au fur et à mesure. Une partie du défi consiste également à publier sur les différents réseau sociaux. Par conséquent, chaque jour, j'utiliserai les hashtag #100DaysOfCode, #301DaysOfCode et vous pourrez me suivre avec: @cameldjoulako.
+
+#100DaysOfCode
+#301DaysOfCode
+#JavaScript #PHP #Java #Phyton #React #Laravel #Bootstrap #SQL
+#Dev #Webdev #softwaredev #developer
+@Homedeve @cameldjoulako
+Merci @amanhimself 
+Merci @ossia 
+
+
+English
+
+------- Starting the 100 Days of Code ( #100DaysOfCode ) challenge -------
+I am always looking to boost my coding skills and as I watch everyone make resolutions for the year, I couldn’t help but think I should try this challenge. In case you don’t know what I’m referring to, one resource is https://www.100daysofcode.com/ and https://301daysofcode.com/ – which really gives you a good overview of what the challenge involves.
+
+I will be updating my GitHub account as I go along. Part of the challenge is also posting on different social network, so each day I’ll be using the hashtag #100DaysOfCode and you can follow me: @cameldjoulako
+
+Day 2 #100DaysOfCode
+Today I Studied too on freecodecamp : Responsive Web Design Certification path.
+#100DaysOfCode
+#301DaysOfCode
+#JavaScript #Css  #freecodecamp
+@freecodecamp @Homedeve @cameldjoulako
+
+
+Day 3 #100DaysOfCode
+Today I Studied Introduction to the Applied Visual Design On #freecodecamp.
+#webDesign #CSS3 #HTML5
+#100DaysOfCode #301DaysOfCode
+@freecodecamp @Homedeve @cameldjoulako
+
+Day 4 of  #100DaysOfCode
+it was last night and I will always continue on the freecodecamp challenge: Applied Visual disign. I was very busy because I tweet my work this morning.
+#webDesign #freecodecamp
+#100DaysOfCode #301DaysOfCode
+
+Day 5 of  #100DaysOfCode
+Today I learned a lot of techniques to make a website more attractive by using dedicated CSS properties.
+#webDesign #freecodecamp #AppliedVisualDesign
+#100DaysOfCode #301DaysOfCode
+
+Day 6 of  #100DaysOfCode
+still doing CSS Challenge on #freecodecamp: applied visual design
+#webDesign #freecodecamp #AppliedVisualDesign #CSS3
+#100DaysOfCode #301DaysOfCode
+
+Day 7 of  #100DaysOfCode
+still doing CSS Challenge on #freecodecamp: applied visual design 
+#webDesign #freecodecamp #AppliedVisualDesign #CSS3
+#100DaysOfCode #301DaysOfCode
+
+Day 8 of  #100DaysOfCode
+Today I finished studying the Applied Visual Design on #freecodecamp
+#webDesign #freecodecamp #AppliedVisualDesign #CSS3
+#100DaysOfCode #301DaysOfCode
+
+Day 9 of  #100DaysOfCode
+Today I started the Introduction to the Applied Accessibility on #freecodecamp:
+1- have well-organized code that uses appropriate markup
+2- ensure text alternatives exist for non-text and visual content
+3- create an easily-navigated page that's keyboard-friendly
+#webDesign #freecodecamp #AppliedVisualDesign #CSS3
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#100DaysOfCode #301DaysOfCode
+
+Day 10 of  #100DaysOfCode
+Today I did 2 challenges on #freecodecamp and I continued to follow my JAVA EE Course on @openclassrooms.
+#freecodecamp #AppliedAccessibility #HTML5 #JAVA_EE
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @javaee 
+#100DaysOfCode #301DaysOfCode #Openclassroms
+
+
+
+Seven years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, more than 850 schools around the world have created thousands of free online courses.
+https://medium.freecodecamp.org/720-free-online-programming-computer-science-courses-you-can-start-in-january-96988eb0c52f 
+
+*************************** push on giyhub online ***********************
+ git add .
+ git commit -m "Update day4 progress"
+ git push
+ **************************
