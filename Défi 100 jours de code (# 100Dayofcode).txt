@@ -111,13 +111,244 @@ Today I started the Introduction to the CSS Flexbox Challenges on #freecodecamp
 
 
 Day 17 of #100DaysOfCode
-Today I started the Introduction to the CSS Flexbox Challenges on #freecodecamp
-#webDesign #freecodecamp #flexbox #CSS3
+Today, I reviewed CSS Flexbox on #freecodecamp
 @100DaysOfCode @cameldjoulako @_100DaysOfCode
 #100DaysOfCode #301DaysOfCode
 
+Day 18 of #100DaysOfCode
+I finished with the Flexbox challenges on @freeCodeCamp.
+#responsive #flexbox
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#100DaysOfCode #301DaysOfCode
+
+Day 19 of #100DaysOfCode
+I Started CSS Grid challenges on @freeCodeCamp.
+I like it because #CSSGrid help me easily build complex web designs.
+#responsive #cssgrid #webdesign
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#100DaysOfCode #301DaysOfCode
+
+Day 20 of #100DaysOfCode
+Still on CSS Grid challenges on @freeCodeCamp.
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#100DaysOfCode #301DaysOfCode
+
+Day 21 of #100DaysOfCode
+Still on CSS Grid challenges on @freeCodeCamp.
++ Divide the Grid Into an Area Template
++ PassedPlace Items in Grid Areas Using the grid-area Property
++ PassedUse grid-area Without Creating an Areas Template
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#100DaysOfCode #301DaysOfCode
+
+Day 22 of #100DaysOfCode
+I finished with the CSS Grid challenges on @freeCodeCamp.
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#100DaysOfCode #301DaysOfCode
+
+Day 23 of #100DaysOfCode
+Today I did some revision in Javascript on @freeCodeCamp.
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#100DaysOfCode #301DaysOfCode
+
+Day 24 of #100DaysOfCode
+Today I started ECMAScript 6 challenges on @freecodecamp.
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBies
+#100DaysOfCode #301DaysOfCodeDay 
+
+Day25 of #100DaysOfCode
+Today I started ECMAScript 6 challenges on @freecodecamp.
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBies
+#100DaysOfCode #301DaysOfCode
+
+Day26 of #100DaysOfCode
+Still doing ECMAScript 6 challenges on @freecodecamp.
+ +Prevent object Mutation
+ +Arrow functions
+Today, I followed Javascript course on @pluralsight 
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie
+#100DaysOfCode #301DaysOfCode
+
+Day27 of #100DaysOfCode
+Still doing ECMAScript 6 challenges on @freecodecamp.
+ +Arrow functions
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie
+#100DaysOfCode #301DaysOfCode
 
 
+Day28 of #100DaysOfCode
+Still doing ECMAScript 6 challenges on @freecodecamp.
+ +Spread Operator
+ +Rest Oprerator
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie @homedeve
+#100DaysOfCode #301DaysOfCode #es6 
+
+Day29 of #100DaysOfCode
+Late post
+Still doing ECMAScript 6 challenges on @freecodecamp.
+ + Destructuring Assignment 
+ +Reassign Array Elements
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie @homedeve
+#100DaysOfCode #301DaysOfCode #es6 
+
+Day 30 of #100DaysOfCode
+Continued ECMAScript 6 challenges on @freecodecamp.
+	 + Destructuring Assignment 
+ 	+Reassign Array Elements
+Started my 3/5 Responsive Web Design Projects - Build a Survey Form
+I will finish it tomorrow & es6 challenges
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie @homedeve
+#100DaysOfCode #301DaysOfCode #es6 #webprojet #web #webdeveloper #softwaredeveloper
+
+Day 31 of #100DaysOfCode
+Yesterday was my 31st day for the 100 Days of code challenge. I finished with ES6 on freecodecamp and from this day I work on my last 3 projects concerning the responsive web desing.
+@100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie @homedeve
+#100DaysOfCode #301DaysOfCode #es6 #webprojet #web #webdeveloper #softwaredeveloper
+
+
+Day 32 of #100DaysOfCode
+I Started Regular expression challenges on @freeCodeCamp.
+@homedeve @100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie
+#100DaysOfCode #301DaysOfCode #es6 #webprojet #web #webdeveloper #softwaredeveloper
+
+Day 33 of #100DaysOfCode
+Still doing Regular Expressions challenges on @freecodecamp.
++Match a Literal String with Different Possibilities
++PassedIgnore Case While Matching
++PassedExtract Matches
+@homedeve @100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie
+#100DaysOfCode #301DaysOfCode #es6 #webprojet #web #webdeveloper #softwaredeveloperDay 
+
+Day 34 of #100DaysOfCode
+Still doing Regular Expressions challenges on @freecodecamp.
+++Find More Than the First Match
+++PassedMatch Anything with Wildcard Period
+@homedeve @100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie
+#100DaysOfCode #301DaysOfCode #es6 #webprojet #web #webdeveloper #softwaredeveloper
+
+Day 35 of #100DaysOfCode
+Today Progress:  Regular Expressions challenges on @freecodecamp.
+Match Single Character with Multiple Possibilities, Letters of the Alphabet, Numbers and Letters of the Alphabet
+and Single Characters Not Specified
+@homedeve @100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie
+#301DaysOfCode #javascript
+
+Day 36 of #100DaysOfCode
+Today I continued with the challenge: Regular Expression on @freeCodecamp
+@homedeve @100DaysOfCode @cameldjoulako @_100DaysOfCode @CodeNewBie
+#301DaysOfCode #javascript #freecodecamp
+
+Day 37 of #100DaysOfCode .
+I reviewed #es6 and regular expression on #freecodecamp
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Day 38 of #100DaysOfCode
+I reviewed #es6 and regular expression on #freecodecamp
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Day 38 and 39 of # 100DaysOfCode
+Yesterday was my 38th day for the challenge and I took the opportunity to review past challenges on Regular Expressions. On this day, 39th Day I finished with the challenge on Regular expressions.
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Thursday 21 fevrier 2019
+Day 40 of #100DaysOfCode
+Today I finished the challenge on JavaScript Debugging on freecodecamp
+#freecodecamp
+@100DaysOfCode @cameldjoulako @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+lehdh skjssjiks
+lijdeu
+
+
+Day 41 of #100DaysOfCode
+Today I continued to follow my JavaScript path on @pluralsight and complete 3 @freecodecamp challenge.
+#freecodecamp #ALCwithGoogle, #Growithgoogle @andela, @pluralsight @googleafrica
+@100DaysOfCode @homedeve @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+Day 42 and 43 of #100DaysOfCode
+Always to follow my JavaScript path on @pluralsight and complete @freecodecamp challenge.
+#freecodecamp #ALCwithGoogle, #Growithgoogle @andela, @pluralsight @googleafrica
+@100DaysOfCode @homedeve @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Day 44 of #100DaysOfCode
+Today I continued to follow my JavaScript courses on @pluralsight and finished with Basic data structure on @freecodecamp.
+#freecodecamp #ALCwithGoogle, #Growithgoogle @andela, @pluralsight @googleafrica
+@100DaysOfCode @homedeve @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Day 45 of #100DaysOfCode
+promise
+oop on fcc
+
+#freecodecamp #ALCwithGoogle, #Growithgoogle @andela, @pluralsight @googleafrica
+@100DaysOfCode @homedeve @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Day 46 & 47 of #100DaysOfCode
+Continued OOP Javascript challenge on @freecodecamp.
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Day 48 & 49 of #100DaysOfCode
+Completed OOP and Functional programming Javascript challenge on @freecodecamp .
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode #OOP
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+Day 50 & 51 of #100DaysOfCode
+Did a lot of work and completed How Promise, Proxy and HTTP Works in Javascript, I am really pushing hard now to learn as much as I can to build professional projects.
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode #OOP
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+Day 52 53 54 and 55 of #100DaysOfCode
+always do on my freecodecamp website design projects and deepen my knowledge about Pwa  
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode #pwa
+#CodeNewbie #301DaysOfCode @CodeNewbies
+
+
+Day 56 and 57 of #100DaysOfCode
+Yestaday on Today, I worked on JavaScript and Java SwING  Projects.
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode #JAVA #JavaScript
+#CodeNewbie #301DaysOfCode @devoffuture #defoffuture #10DoFCodes 
+
+Day 58 of #100DaysOfCode
+Complete my Product landing page project for @frecodecamp responsive design certification: but still worked on responsive side: 
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode
+#CodeNewbie #301DaysOfCode @devoffuture #defoffuture #10DoFCodes 
+https://cameldjoulako.github.io/landing_page
+
+Day 59 of #100DaysOfCode
+Today I worked on Java Swing project.
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode #java
+#CodeNewbie #301DaysOfCode @devoffuture #defoffuture #10DoFCodes 
+
+Day 60 and 61 of #100DaysOfCode
+I worked on my freecodecamp last project(Responsive ♂eb desing) and reviewed my javascript courses on @pluralsight
+#freecodecamp @100DaysOfCode @homedeve @_100DaysOfCode #java
+#CodeNewbie #301DaysOfCode @devoffuture #defoffuture #10DoFCodes 
+
+
+
+
+
+
+
+
+---------------------------------------------------
+Start day: 5 Janvier 2019
+end day :  14 avril  +8 days = 22 Avril 2019
+-------------------------------------------------------------------
 Seven years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, more than 850 schools around the world have created thousands of free online courses.
 https://medium.freecodecamp.org/720-free-online-programming-computer-science-courses-you-can-start-in-january-96988eb0c52f 
 
@@ -126,3 +357,6 @@ https://medium.freecodecamp.org/720-free-online-programming-computer-science-cou
  git commit -m "Update day4 progress"
  git push
  **************************
+
+ 
+
