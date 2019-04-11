@@ -361,20 +361,42 @@ https://cameldjoulako.github.io/SnakeHomeGame/
 Day 72 of #100DaysOfCode
 Today I finished with the module of introduction to Saas on #FreeCodeCamp and I continue with ReactJS to be able to finish my three projects remaining before the end of my 100DaysOfCode challenge .
 @100DaysOfCode @homedeve @_100DaysOfCode
-#301DaysOfCode #homedeve #defoffuture #10DoFCodes 
+#301DaysOfCode #homedeve #defoffuture #10DoFCodes
+
+DaysOfCode 73 and 74 of #100DaysOfCode
+I worked on React js on #freecodecamp and on the official website of React.
+@100DaysOfCode @homedeve @_100DaysOfCode #301DaysOfCode
+
+Day 75, 76 and 77 of #100DaysOfCode
+Late post
+Always worked on React Challenge on #freecodecamp
+@100DaysOfCode @homedeve @_100DaysOfCode #defoffuture #10DoFCodes #CodeNewbie
+
+Day 78, 79 and 80 of #100DaysOfCode
+Late post
+Always worked on React Challenge on #freecodecamp:
+Manipulate State and props
+@100DaysOfCode @homedeve @_100DaysOfCode #defoffuture #10DoFCodes #CodeNewbie 
+
+Day 81, 82, 83 and 84 of #100DaysOfCode
+late post. so busy for finish  
+Always worked on React Challenges on #freecodecamp:
+@100DaysOfCode @homedeve @_100DaysOfCode #defoffuture #10DoFCodes #CodeNewbie
+
+
+Day 85 and 86 of #100DaysOfCode
+Always worked on React Challenges on #freecodecamp:
+states and props
+@100DaysOfCode @homedeve @_100DaysOfCode #defoffuture #10DoFCodes #CodeNewbie
+
+
+Day 87 and 88 of #100DaysOfCode
+worked on React Challenges on #freecodecamp:
+@100DaysOfCode @homedeve @_100DaysOfCode #defoffuture #10DoFCodes #CodeNewbie
 
 
 
-
-
-
-
-
-
-
-
-
----------------------------------------------------
+-------------------------------------
 Start day: 5 Janvier 2019
 end day :  14 avril  +8 days = 22 Avril 2019
 -------------------------------------------------------------------
