@@ -57,3 +57,47 @@ class ResetPassword extends React.Component {
     );
   }
 };
+
+21-
+const Camper = props => (<p>{props.name}</p>);
+
+Camper.defaultProps = {
+  name: 'CamperBot'
+};
+
+Camper.propTypes = {
+  name: PropTypes.string.isRequired
+};
+
+class CampSite extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+  render() {
+    return (
+      <div>
+        <Camper />
+      </div>
+    );
+  }
+};
+// change code below this line
+
+22
+
+class StatefulComponent extends React.Component {
+  constructor(props) {
+    super(props);
+    // initialize state here
+    this.state = {
+      name: 'Camel Djoulako'
+    }
+  }
+  render() {
+    return (
+      <div>
+        <h1>{this.state.name}</h1>
+      </div>
+    );
+  }
+};
